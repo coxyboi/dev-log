@@ -1,4 +1,4 @@
-![Resources]
+# Resources
 
 
 1. **[Javascript](.source/javascript.md)**
