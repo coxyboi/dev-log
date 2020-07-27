@@ -1,0 +1,6 @@
+- [SNOOK.CA](https://snook.ca/)
+- [A List Apart](https://alistapart.com/article/content-out-layout/)
+- [LukeW](https://www.lukew.com/presos/)
+- [Nick Babich Adobe](https://theblog.adobe.com/author/nickbabich/)
+- [Nick Babich](http://babich.biz/)
+- [Codrops](https://tympanus.net/codrops/)
