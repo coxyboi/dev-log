@@ -8,3 +8,4 @@
 5. **[Data Science](./source/data-science.md)**
 6. **[UX](./source/ux.md)**
 7. **[Style Guides](./source/style-guides.md)**
+8. **[Python](./source/python.md)**
