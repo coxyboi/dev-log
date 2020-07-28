@@ -1,10 +1,10 @@
 # Resources
 
 
-1. **[Javascript](.source/javascript.md)**
-2. **[Web Design Blogs](.source/web-design-blogs.md)**
-3. **[Concepts](.source/concepts.md)**
-4. **[Documentation](.source/documentation.md)**
-5. **[Git](.source/git.md)**
-6. **[Data Science](.source/data-science.md)**
-7. **[UX](.source/ux.md)**
+1. **[Javascript](./source/javascript.md)**
+2. **[Web Design Blogs](./source/web-design-blogs.md)**
+3. **[General Technical](./source/concepts.md)**
+4. **[CSS](./source/css.md)**
+5. **[Data Science](./source/data-science.md)**
+6. **[UX](./source/ux.md)**
+7. **[Style Guides](./source/)**
