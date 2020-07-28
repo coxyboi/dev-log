@@ -7,4 +7,4 @@
 4. **[CSS](./source/css.md)**
 5. **[Data Science](./source/data-science.md)**
 6. **[UX](./source/ux.md)**
-7. **[Style Guides](./source/)**
+7. **[Style Guides](./source/style-guides.md)**
